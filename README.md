@@ -1,2 +1,2 @@
 # MIBOT
-my bot project!!
+this project is about my schedule bot
